@@ -1,0 +1,12 @@
+{
+    "name": "leigh/oculoids",
+    "authors": [
+        {
+            "name": "Leigh",
+            "email": "leighpri@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "^2.6"
+    }
+}
